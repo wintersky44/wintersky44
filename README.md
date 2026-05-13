@@ -1,7 +1,7 @@
 <h1 align="center">‎‎Hi, I'm V </h1>
 
 <p align="center">
-Machine Learning Engineer 
+Machine Learning Enthusiast
 </p>
 
 ---
