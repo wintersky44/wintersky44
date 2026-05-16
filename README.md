@@ -1,6 +1,6 @@
 ## About Me
 
-Currently building pandas and python skills for data analysis
+Currently working on my pandas and python skills for data analysis
 
 ---  
 ## Skills
