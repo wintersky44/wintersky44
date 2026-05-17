@@ -1,6 +1,6 @@
 ## About Me
 
-Currently working on my pandas and python skills for data analysis
+Currently working towards getting competent at data analysis/data science
 
 ---  
 ## Skills
@@ -15,5 +15,6 @@ Currently working on my pandas and python skills for data analysis
 
 ## Current Goals
 
-Get proficient at pandas and data analysis in general
+- Get proficient at pandas
+- Learn SQL, excel, and Data visualization
 
