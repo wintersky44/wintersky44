@@ -2,16 +2,19 @@
 
 Currently working towards getting competent at data analysis/data science
 
----  
+---
+
 ## Skills
 
-### Languages
+#### Languages
 
 - Python
 
-### Libraries
+#### Libraries
 
 - Pandas
+
+---
 
 ## Current Goals
 
