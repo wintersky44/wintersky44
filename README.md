@@ -19,5 +19,5 @@ Currently working towards getting competent at data analysis/data science
 ## Current Goals
 
 - Get proficient at pandas
-- Learn SQL, excel, and Data visualization
+- Learn Data visualization and eventually dive into ML
 
