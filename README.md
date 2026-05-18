@@ -1,6 +1,6 @@
 ## About Me
 
-Currently working towards getting competent at data analysis/data science
+Currently working towards getting competent at data science
 
 ---
 
@@ -12,12 +12,12 @@ Currently working towards getting competent at data analysis/data science
 
 #### Libraries
 
-- Pandas
+- Pandas, Matplotlib, Seaborn
 
 ---
 
 ## Current Goals
 
-- Get proficient at pandas
-- Learn Data visualization and eventually dive into ML
+- Get proficient at exploratory data analysis
+- Eventually dive into ML
 
