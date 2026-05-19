@@ -1,6 +1,6 @@
 ## About Me
 
-Currently working towards getting competent at data science
+Currently working towards getting competent at data science and ML
 
 ---
 
