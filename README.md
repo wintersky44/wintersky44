@@ -1,23 +1,23 @@
-## About Me
+## about me
 
-Currently working towards getting competent at data science and ML
+working towards getting competent at data science and ML
 
 ---
 
-## Skills
+## skills
 
-#### Languages
+#### languages
 
 - Python
 
-#### Libraries
+#### libraries
 
 - Pandas, Matplotlib, Seaborn
 
 ---
 
-## Current Goals
+## current goals
 
-- Get proficient at exploratory data analysis
-- Eventually dive into ML
+- get good at exploratory data analysis
+- eventually start ML
 
