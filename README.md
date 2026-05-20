@@ -12,7 +12,7 @@ working towards getting competent at data science and ML
 
 #### libraries
 
-- Pandas, Matplotlib, Seaborn
+- Pandas, Scikit-learn, Matplotlib, Seaborn
 
 ---
 
