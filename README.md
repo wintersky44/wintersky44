@@ -1,6 +1,6 @@
 ## about me
 
-working towards getting competent at data science and ML
+doing data science and ML
 
 ---
 
@@ -18,6 +18,6 @@ working towards getting competent at data science and ML
 
 ## current goals
 
-- get good at exploratory data analysis
-- eventually start ML
+- start kaggle competitions
+- get better at exploratory data analysis, data visualizations and feature engineering
 
