@@ -1,6 +1,6 @@
 ## about me
 
-interested in data science/analysis and building end to end ML systems.
+interested in data science/analysis and building end to end ML projects.
 
 ---
 
@@ -21,4 +21,5 @@ interested in data science/analysis and building end to end ML systems.
 - learn and get good at SQL
 - start kaggle competitions
 - get better at exploratory data analysis, data visualizations and feature engineering
+- learn fastAPI and streamlit libraries to present predictions of my models in a web app
 
