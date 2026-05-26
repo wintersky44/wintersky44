@@ -1,6 +1,6 @@
 ## about me
 
-interested in data science/analysis and building end to end ML projects.
+interested in data science/analysis and building end to end ML projects
 
 ---
 
@@ -12,7 +12,7 @@ interested in data science/analysis and building end to end ML projects.
 
 #### libraries
 
-- Pandas, Scikit-learn, Matplotlib, Seaborn
+- Pandas, Scikit-learn, Matplotlib, Seaborn, FastAPI, Streamlit
 
 ---
 
