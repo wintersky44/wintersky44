@@ -12,7 +12,7 @@ interested in data science/analysis and building end to end ML projects
 
 #### libraries
 
-- Pandas, Scikit-learn, Matplotlib, Seaborn, FastAPI, Streamlit
+- Pandas, Scikit-learn, Matplotlib, Streamlit
 
 ---
 
@@ -20,6 +20,7 @@ interested in data science/analysis and building end to end ML projects
 
 - learn and get good at SQL
 - start kaggle competitions
+- learn how to display my models and data analysis using streamlit
 - get better at exploratory data analysis, data visualizations and feature engineering
-- learn fastAPI and streamlit libraries to present predictions of my models in a web app
+  
 
