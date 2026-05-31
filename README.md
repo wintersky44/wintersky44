@@ -1,6 +1,6 @@
 ## about me
 
-interested in data science/analysis and building end to end ML projects
+interested in data science/analysis and ML
 
 ---
 
