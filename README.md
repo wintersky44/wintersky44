@@ -12,7 +12,7 @@ interested in data science/analysis and ML
 
 #### libraries
 
-- Pandas, Scikit-learn, Matplotlib, Streamlit
+- Pandas, Scikit-learn, Matplotlib
 
 ---
 
@@ -20,7 +20,6 @@ interested in data science/analysis and ML
 
 - learn and get good at SQL
 - start kaggle competitions
-- learn how to display my models and data analysis using streamlit
 - get better at exploratory data analysis, data visualizations and feature engineering
   
 
