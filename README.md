@@ -1,6 +1,6 @@
 ## about me
 
-interested in data science/analysis and ML
+interested in data science and ML
 
 ---
 
